@@ -1,0 +1,436 @@
+{
+    "name": "Chaitanya Shinge",
+    "qualification": "Computer Engineer",
+    "contact": {
+        "email": {
+            "provider": "gmail",
+            "username": "chaitanyashinge"
+        },
+        "mobile": {
+            "code": "+91",
+            "number": "9503769438"
+        },
+        "location": {
+            "area": "New Rees",
+            "country": "India"
+        },
+        "linkedin": {
+            "link": "linkedin.com/in/",
+            "profile": "chaitanyashinge"
+        },
+        "github": {
+            "link": "github.com/",
+            "profile": "CHAITANYA-IN"
+        },
+        "gitlab": {
+            "link": "gitlab.com/",
+            "profile": "CHAITANYA-IN"
+        }
+    },
+    "education": [
+        {
+            "qualification": "Bachelor of Technology",
+            "discipline": "Computer Engineering",
+            "institution": "College of Engineering Pune",
+            "university": "Savitribai Phule Pune University",
+            "timeline": {
+                "start": "2018",
+                "end": "2022"
+            },
+            "yearOf": {
+                "admission": 2018,
+                "completion": 2022
+            },
+            "gradeType": "CGPA",
+            "grade": 8.15,
+            "maxGrade": 10,
+            "additionalQualification": {
+                "name": "Honors",
+                "discipline": "Computer Engineering",
+                "info": [
+                    "Opted for Honors Certification Scheme in Computer Engineering",
+                    "Learned and got insights on Post graduate/Research level academic subjects"
+                ]
+            },
+            "activities": [
+                {
+                    "role": "Event Coordinator",
+                    "eventName": "Mindspark CodeJunkie",
+                    "festName": "Mindspark '19",
+                    "contribution": [
+                        "CodeJunkie is Computer-based quiz on C programming + data structures and algorithms",
+                        "Designed quiz questions",
+                        "Conducted quiz exam and managed participants"
+                    ]
+                },
+                {
+                    "role": "Event Coordinator",
+                    "eventName": "Hackathon",
+                    "festName": "Mindspark '19",
+                    "contribution": [
+                        "Addressed and resolved participants' issues"
+                    ]
+                },
+                {
+                    "role": "Event Participant",
+                    "eventName": "Telematches",
+                    "festName": "91st Regatta",
+                    "contribution": [
+                        "Boating canoe with three other team members to perform different formations involving fireworks."
+                    ]
+                },
+                {
+                    "role": "Event Participant",
+                    "eventName": "CodeKaze",
+                    "festName": "Coding Ninjas",
+                    "contribution": [
+                        "Attempted Coding Competition focused on probability, data structure, algorithms."
+                    ]
+                }
+            ]
+        },
+        {
+            "qualification": "Higher Secondary School Certificate",
+            "importantSubjects": "Computer Science",
+            "institution": "Khimji Palan Chheda Junior College of Commerce and Science, Kharghar",
+            "shortNameOfInstitution": "K.P.C. Jr. College of Commerce and Science, Kharghar",
+            "board": "Maharashtra State Board of Secondary and Higher Secondary Education, Pune",
+            "shortNameOfBoard": "MSBSHSE, Pune",
+            "timeline": {
+                "start": "2016",
+                "end": "2018"
+            },
+            "yearOf": {
+                "admission": 2016,
+                "completion": 2018
+            },
+            "yearOfAdmission": 2016,
+            "yearOfCompletion": 2018,
+            "gradeType": "%",
+            "grade": 96.31,
+            "maxGrade": 100,
+            "standards": {
+                "start": "11th",
+                "end": "12th"
+            }
+        },
+        {
+            "qualification": "Secondary School Certificate",
+            "institution": "Patalganga Rasayani Industrial Association School Mohopada",
+            "shortNameOfInstitution": "P.R.I.A. School Mohopada",
+            "board": "Maharashtra State Board of Secondary and Higher Secondary Education, Pune",
+            "shortNameOfBoard": "MSBSHSE, Pune",
+            "timeline": {
+                "start": "2005",
+                "end": "2016"
+            },
+            "yearOf": {
+                "admission": 2005,
+                "completion": 2016
+            },
+            "gradeType": "%",
+            "grade": 94.00,
+            "maxGrade": 100,
+            "standards": {
+                "start": "Sr. K.G.",
+                "end": "10th"
+            },
+            "activities": [
+                "Olympiad Exams",
+                "Dnyanpeeth Exams",
+                "Inter-School Elocution Competitions"
+            ]
+        }
+    ],
+    "experiences": [
+        {
+            "type": "programme",
+            "position": "Beta Microsoft Learn Student Ambassador",
+            "organization": "Microsoft Learn Student Ambassador (MLSA), Microsoft",
+            "timeline": {
+                "start": "April 2020",
+                "end": "May 2022"
+            },
+            "activities": [
+                "Conduted session in college on Power Apps platform with over 30+ participants.",
+                "Attended online developer events of MLSA.",
+                "Hands-on various Microsoft's developer-friendly products (like Azure Virtual Machines, Visual Studio)"
+            ]
+        },
+        {
+            "type": "internship",
+            "position": "QA Intern",
+            "organization": "Bajaj Finance Limited, Pune",
+            "timeline": {
+                "start": "June 2021",
+                "end": "August 2021"
+            },
+            "project": "Bajaj's 3in1 App",
+            "activities": [
+                "Performed Black Box testing on Bajaj's 3in1 App",
+                "Reported bugs on incorrect transitions of intents, UI fixes",
+                "Documented results of the test cases performed on Oneplus 6 phone on almost 10 production versions of the app."
+            ],
+            "toolsUsed": [
+                "Oneplus 6 phone",
+                "LibreOffice",
+                "Outlook"
+            ]
+        }
+    ],
+    "contributions": [
+        {
+            "type": "Open Source Project",
+            "project": {
+                "name": "Arduino on Cloud",
+                "link": "https://github.com/frg-fossee/eSim-Cloud",
+                "summary": "Arduino on Cloud is a open source web-based system for designing and simulating Arduino circuits by FOSSEE (Free/Libre and Open Source Software for Education), IIT Bombay"
+            },
+            "organization": "Free/Libre and Open Source Software for Education, Indian Institute of Technology, Bombay",
+            "shartNameOfOrganization": "FOSSEE, IIT Bombay",
+            "timeline": {
+                "start": "June 2021",
+                "end": "September 2021"
+            },
+            "contribution": [
+                "Save Arduino Circuits in json format which can be downloaded and be uploaded back to platform to continue the left developement",
+                "Frontend for setting an Arduino circuit in LMS using LTI.",
+                "Designed form to set LTI related details, final Arduino circuit and boilerplate Arduino circuit.",
+                "Made Arduino simulation page visible on LMS platform.",
+                "Modified Django Backend to store voltage levels from Arduino pins useful for autograding assignments conducted using this platform on LMS."
+            ],
+            "tools": [
+                "Angular",
+                "Django",
+                "Django API tools",
+                "Browser Developer Tools",
+                "Moodle Sandbox LMS",
+                "VS Code",
+                "Docker",
+                "Git",
+                "Github"
+            ]
+        }
+    ],
+    "technicalSkills": [
+        "Git",
+        "Github",
+        "Gitlab",
+        "C Programming",
+        "C++ Programming",
+        "Python3",
+        "Javascript",
+        "Typescript",
+        "Unix",
+        "Bash",
+        "Socket Programming",
+        "Docker",
+        "Postman",
+        "MongoDB",
+        "MySQL",
+        "Nodejs",
+        "React",
+        "Angular",
+        "Django",
+        "Express",
+        "Visual Studio Code"
+    ],
+    "exams": [
+        {
+            "name": "Graduate Aptitude Test in Engineering (GATE)",
+            "year": 2023,
+            "score": 671,
+            "rank": 608
+        },
+        {
+            "name": "Graduate Aptitude Test in Engineering (GATE)",
+            "year": 2022,
+            "score": 438,
+            "rank": 5030
+        },
+        {
+            "name": "Graduate Aptitude Test in Engineering (GATE)",
+            "year": 2021,
+            "score": 539,
+            "rank": 3316
+        }
+    ],
+    "projects": [
+        {
+            "title": "curabl",
+            "link": "https://github.com/adarshnin/curabl",
+            "timeline": {
+                "start": "November 2021",
+                "end": "April 2022"
+            },
+            "about": [
+                "A virtual clinic for doctors to address the patients' issues (physically/virtually)",
+                "A virtual clinic for doctors to give them proper medication / prescription (digital/downloadable)",
+                "A virtual clinic for doctors to give consultation and collaborate with professionals to discuss patients' issues (virtually)"
+            ],
+            "contribution": [
+                "Frontend and Backend for storing, searching and presenting profile of doctors and their patients",
+                "Handled database queries for storing doctor's and patient's information",
+                "Added multi-lingual support to platform",
+                "Hosted the project using Azure Virtual Machines and .me domain",
+                "Hosted and integrated third party chat service - RocketChat"
+            ],
+            "tools": [
+                "Nodejs Runtime",
+                "ExpressJs",
+                "ReactJs",
+                "AntDesign",
+                "MongoDB",
+                "Nginx",
+                "Azure Virtual Machines",
+                "VS Code",
+                "Git",
+                "Github",
+                "Postman"
+            ],
+            "third-party-services": [
+                "Razorpay",
+                "Jitsi",
+                "RocketChat"
+            ]
+        },
+        {
+            "title": "Canteen Automation System",
+            "link": "https://github.com/CHAITANYA-IN/canteen-automation-system",
+            "timeline": {
+                "start": "February 2021",
+                "end": "April 2021"
+            },
+            "about": [
+                "A food serivce app to automate or digitize the food ordering process @college canteen"
+            ],
+            "contribution": [
+                "Designed database queries and backend.",
+                "Developed API for CRUD operations on food items",
+                "Added feature of cart to store food items to be ordered."
+            ],
+            "tools": [
+                "Nodejs Runtime",
+                "ExpressJs",
+                "React Native",
+                "MySQL",
+                "VS Code"
+            ],
+            "third-party-services": [
+                "Razorpay"
+            ]
+        },
+        {
+            "title": "Scheduling algorithms in xv6 os",
+            "link": "https://gitlab.com/CHAITANYA-IN/xv6-os-scheduling",
+            "timeline": {
+                "start": "February 2021",
+                "end": "April 2021"
+            },
+            "about": [
+                "Changed the default Round Robin scheduling algorithm in xv6 os to Lottery, Preemptive Priority, FCFS, Multilevel Feedback Queue"
+            ],
+            "contribution": [
+                "Implemented Lottery and Priority Scheduling algorithms in xv6-os.",
+                "Developed sample programs to test correctness of implemented algorithms.",
+                "Added supportive system calls (nice, ps) for testing and analysis of scheduling algorithms."
+            ],
+            "tools": [
+                "C",
+                "gdb",
+                "make ",
+                "qemu",
+                "Git",
+                "Gitlab"
+            ],
+            "third-party-services": []
+        },
+        {
+            "title": "PyBrowser",
+            "link": "https://github.com/CHAITANYA-IN/pybrowser",
+            "timeline": {
+                "start": "January 2020",
+                "end": "May 2020"
+            },
+            "about": [
+                "Mimic web browser with basic features"
+            ],
+            "contribution": [
+                "Webpages from requested URL are rendered.",
+                "Browsing History is maintained and can be traversed to and fro.",
+                "Rendered webpages and downloadable files can be downloaded.",
+                "Websites can be opened in multiple tabs."
+            ],
+            "tools": [
+                "Python3",
+                "Qt"
+            ],
+            "third-party-services": []
+        },
+        {
+            "title": "grep command",
+            "link": "https://github.com/CHAITANYA-IN/grep",
+            "timeline": {
+                "start": "August 2019",
+                "end": "December 2019"
+            },
+            "about": [
+                "Cloning Global Regular Expression Print (grep) command in linux."
+            ],
+            "contribution": [
+                "Searches pattern in a file and recursively in a directory and prints all the lines containing the pattern.",
+                "Implemented options b,c,f,h,H,i,m,q,r,v,w"
+            ],
+            "tools": [
+                "C",
+                "gdb"
+            ],
+            "third-party-services": []
+        },
+        {
+            "title": "HTTP Server",
+            "link": "https://github.com/CHAITANYA-IN/http-server",
+            "timeline": {
+                "start": "August 2020",
+                "end": "December 2020"
+            },
+            "about": [
+                "A Simple Http Server"
+            ],
+            "contribution": [
+                "Implemented and tested HTTP GET request.",
+                "Extended client-server communication from command line to browser.",
+                "Implemented logging of incoming requests and events."
+            ],
+            "tools": [
+                "Python3"
+            ],
+            "third-party-services": []
+        },
+        {
+            "title": "College Portal",
+            "link": "https://github.com/CHAITANYA-IN/college-portal",
+            "timeline": {
+                "start": "August 2020",
+                "end": "December 2020"
+            },
+            "about": [
+                "Designed Database and supporting UI for managing past & ongoing college courses, teachers and students."
+            ],
+            "contribution": [
+                "Designed MySQL database, supportive database queries and API functions in PHP for accessing designed database.",
+                "Designed Frontend using Bootstrap and connected it using API calls.",
+                "Managed webpage transitions"
+            ],
+            "tools": [
+                "mysql",
+                "php",
+                "bootstrap",
+                "html",
+                "css",
+                "js"
+            ],
+            "third-party-services": []
+        }
+    ]
+}

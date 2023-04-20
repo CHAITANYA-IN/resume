@@ -1,0 +1,83 @@
+body {
+    line-height: 1.2;
+    /* font-family: var(--bs-font-sans-serif) !important; */
+}
+
+header {
+    margin-bottom: 4px;
+    border-bottom: 1.5px solid black;
+}
+
+.header-title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.contact {
+    font-size: 14px;
+    margin-bottom: 1px;
+}
+
+ul {
+    margin-bottom: 0px;
+}
+
+.section {
+    margin-bottom: 5.5px;
+}
+
+.section-title {
+    margin-bottom: 3px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #5171A5;
+}
+
+.qualification,
+.project,
+.experience {
+    margin-bottom: 5px;
+}
+
+.college {
+    font-size: 14px;
+}
+
+.subtitle {
+    font-style: italic;
+}
+
+.title {
+    font-weight: 550;
+    font-size: 16px;
+    margin-bottom: 2px;
+}
+
+.mywork,
+.about {
+    font-size: 16px;
+}
+
+.tools {
+    font-size: 14px;
+    font-style: italic;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.grade-timeline {
+    font-weight: 350;
+    font-size: 15px;
+    float: right;
+}
+
+.timeline {
+    font-weight: 350;
+    font-size: 15px;
+    float: right;
+    font-style: italic;
+}
+
