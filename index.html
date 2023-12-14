@@ -17,15 +17,21 @@
     <div class="container-fluid">
         <header>
             <div class="mb-1 display-5 header-title">
-                Chaitanya Bharat Shinge
+                <a style="color:black; text-decoration: none;" href="https://www.cse.iitb.ac.in/~chaitanyashinge/">Chaitanya Bharat Shinge</a>
             </div>
             <div class="mb-1 d-flex justify-content-between flex-wrap">
                 <div class="d-flex flex-column flex-wrap">
                     <div class="contact">
-                        <i class="bi bi-telephone-fill"></i>&#9;+91 9503769438
+                        <i class="bi bi-telephone-fill"></i>&#9;
+                        <a href="tel:+919503769438" class="link">
+                            +91 9503769438
+                        </a>
                     </div>
                     <div class="contact">
-                        <i class="bi bi-envelope-fill"></i>&#9;chaitanyashinge@gmail.com
+                        <i class="bi bi-envelope-fill"></i>&#9;
+                        <a href="mailto:chaitanyashinge@gmail.com" class="link">
+                            chaitanyashinge@gmail.com
+                        </a>
                     </div>
                 </div>
                 <div class="d-flex flex-column flex-wrap">
@@ -52,6 +58,10 @@
                         Master of Science by Research
                         <span class="grade-timeline">
                             <i>
+                                CGPA: 8.07&#9;
+                            </i>
+                            |
+                            <i>
                                 &#9;Aug&#9;2023&#9;-&#9;Jun&#9;2026 (expected)
                             </i>
                         </span>
@@ -60,7 +70,10 @@
                         Indian Institute of Technology Bombay
                     </div>
                     <ul class="mywork">
+                        <li>Managed BodhiCoder2023 - a online coding course & coding hackathon conducted by CSE, IITB.
                         <li>Working with Professor Varsha Apte on "Software Design for a Rich, Robust and Configurable Access Control in Complex Multi-User Networked Application".
+                        <li>Worked on IITB Proxy Oauth2 provider for authentication and authorization of users in IITB's internal apps.
+                        <li>Have taken courses on Design and Engineering of Computing Systems, Foundations of Network Security.
                     </ul>
                 </div>
                 <div class="qualification">
@@ -153,6 +166,42 @@
                 <div class="section-title">PROJECTS</div>
                 <div class="project">
                     <div class="title">
+                        Configuring IITB Proxy Oauth2 provider
+                        <span class="timeline">
+                            Oct&#9;2023&#9;-&#9;Dec&#9;2023
+                        </span>
+                    </div>
+                    <div class="about">
+                        Configuring Proxy Oauth2 provider for IITB's internal apps to authorize users from two LDAP servers (one of them was SSO enabled).
+                    </div>
+                    <ul class="mywork">
+                        <li>Merged the attributes from two different sources of LDAP servers.
+                        <li>Configured Django to handle the OpenID Connect based redirections from SSO enabled LDAP server instead of Apache2.
+                    </ul>
+                    <div class="tools">
+                        Tools used: django, shell scripting, python3, git, docker
+                    </div>
+                </div>
+                <div class="project">
+                    <div class="title">
+                        Programming Autograder
+                        <span class="timeline">
+                            Oct&#9;2023&#9;-&#9;Nov&#9;2023
+                        </span>
+                    </div>
+                    <div class="about">
+                        Toy Programming Autograder to measure and analyze its performance
+                    </div>
+                    <ul class="mywork">
+                        <li>Created toy autograders with different thread handling models like thread-pool, mulitithreaded, single-threaded, etc.
+                        <li>Compared the performance of autograders through graphs.
+                    </ul>
+                    <div class="tools">
+                        Tools used: c, makefile, socket-programming, sqlite3, gnuplot, awk, git
+                    </div>
+                </div>
+                <div class="project">
+                    <div class="title">
                         curabl | B.Tech. Project
                         <span class="timeline">
                             Nov&#9;2021&#9;-&#9;Apr&#9;2022
@@ -186,7 +235,7 @@
                         Tools used: C, gdb, make, qemu, git
                     </div>
                 </div>
-                <div class="project">
+                <!-- <div class="project">
                     <div class="title">
                         HTTP Server
                         <span class="timeline">
@@ -199,7 +248,7 @@
                     <div class="tools">
                         Tools used: python3, postman, git
                     </div>
-                </div>
+                </div> -->
                 <div class="project">
                     <div class="title">
                         grep command
